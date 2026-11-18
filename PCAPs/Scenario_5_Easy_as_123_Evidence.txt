@@ -1,0 +1,414 @@
+1	00:e0:4c:68:08:00	0.0.0.0		
+2	00:19:d1:b2:4d:ad	0.0.0.0		
+34	00:19:d1:b2:4d:ad	10.2.28.88		
+36	14:b3:1f:2d:ce:69	10.2.28.2		
+70	00:19:d1:b2:4d:ad	10.2.28.88		
+72	14:b3:1f:2d:ce:69	10.2.28.2		
+103	00:19:d1:b2:4d:ad	0.0.0.0		
+104	00:05:00:41:ae:25	10.2.28.1		
+135	00:19:d1:b2:4d:ad	10.2.28.88	DESKTOP-TEYQ2NR<20>,DESKTOP-TEYQ2NR<20> (Server service)	
+136	00:19:d1:b2:4d:ad	10.2.28.88	DESKTOP-TEYQ2NR<00>,DESKTOP-TEYQ2NR<00> (Workstation/Redirector)	
+137	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<00>,EASYAS123<00> (Workstation/Redirector)	
+142	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<00>,EASYAS123<00> (Workstation/Redirector)	
+143	00:19:d1:b2:4d:ad	10.2.28.88	DESKTOP-TEYQ2NR<00>,DESKTOP-TEYQ2NR<00> (Workstation/Redirector)	
+144	00:19:d1:b2:4d:ad	10.2.28.88	DESKTOP-TEYQ2NR<20>,DESKTOP-TEYQ2NR<20> (Server service)	
+150	00:19:d1:b2:4d:ad	10.2.28.88	DESKTOP-TEYQ2NR<20>,DESKTOP-TEYQ2NR<20> (Server service)	
+151	00:19:d1:b2:4d:ad	10.2.28.88	DESKTOP-TEYQ2NR<00>,DESKTOP-TEYQ2NR<00> (Workstation/Redirector)	
+152	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<00>,EASYAS123<00> (Workstation/Redirector)	
+185	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<00>,EASYAS123<00> (Workstation/Redirector)	
+186	00:19:d1:b2:4d:ad	10.2.28.88	DESKTOP-TEYQ2NR<00>,DESKTOP-TEYQ2NR<00> (Workstation/Redirector)	
+187	00:19:d1:b2:4d:ad	10.2.28.88	DESKTOP-TEYQ2NR<20>,DESKTOP-TEYQ2NR<20> (Server service)	
+214	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1e>,EASYAS123<1e> (Browser Election Service)	
+215	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1e>,EASYAS123<1e> (Browser Election Service)	
+219	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1e>,EASYAS123<1e> (Browser Election Service)	
+221	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1e>,EASYAS123<1e> (Browser Election Service)	
+243	00:19:d1:b2:4d:ad	10.2.28.88		brolf
+244	14:b3:1f:2d:ce:69	10.2.28.2		
+251	00:19:d1:b2:4d:ad	10.2.28.88		brolf
+253	14:b3:1f:2d:ce:69	10.2.28.2		brolf
+262	00:19:d1:b2:4d:ad	10.2.28.88		
+265	14:b3:1f:2d:ce:69	10.2.28.2		brolf
+285	00:19:d1:b2:4d:ad	10.2.28.88		
+288	14:b3:1f:2d:ce:69	10.2.28.2		brolf
+297	00:19:d1:b2:4d:ad	10.2.28.88		
+300	14:b3:1f:2d:ce:69	10.2.28.2		brolf
+307	00:19:d1:b2:4d:ad	10.2.28.88		
+309	14:b3:1f:2d:ce:69	10.2.28.2		
+365	00:19:d1:b2:4d:ad	10.2.28.88		
+369	14:b3:1f:2d:ce:69	10.2.28.2		brolf
+376	00:19:d1:b2:4d:ad	10.2.28.88		
+378	14:b3:1f:2d:ce:69	10.2.28.2		
+397	00:19:d1:b2:4d:ad	10.2.28.88		
+400	14:b3:1f:2d:ce:69	10.2.28.2		brolf
+406	00:19:d1:b2:4d:ad	10.2.28.88		
+408	14:b3:1f:2d:ce:69	10.2.28.2		
+409	00:19:d1:b2:4d:ad	10.2.28.88		
+433	00:19:d1:b2:4d:ad	10.2.28.88		
+435	14:b3:1f:2d:ce:69	10.2.28.2		
+442	00:19:d1:b2:4d:ad	10.2.28.88		
+444	14:b3:1f:2d:ce:69	10.2.28.2		
+899	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+900	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+2669	00:19:d1:b2:4d:ad	10.2.28.88		
+2672	14:b3:1f:2d:ce:69	10.2.28.2		brolf
+2678	00:19:d1:b2:4d:ad	10.2.28.88		
+2680	14:b3:1f:2d:ce:69	10.2.28.2		
+2689	00:19:d1:b2:4d:ad	10.2.28.88		
+2691	14:b3:1f:2d:ce:69	10.2.28.2		
+2866	00:19:d1:b2:4d:ad	10.2.28.88		
+2868	14:b3:1f:2d:ce:69	10.2.28.2		
+2869	00:19:d1:b2:4d:ad	10.2.28.88		
+2893	00:19:d1:b2:4d:ad	10.2.28.88		
+2895	14:b3:1f:2d:ce:69	10.2.28.2		
+2906	00:19:d1:b2:4d:ad	10.2.28.88		
+2908	14:b3:1f:2d:ce:69	10.2.28.2		
+2937	00:19:d1:b2:4d:ad	10.2.28.88		
+2939	14:b3:1f:2d:ce:69	10.2.28.2		
+2940	00:19:d1:b2:4d:ad	10.2.28.88		
+2964	00:19:d1:b2:4d:ad	10.2.28.88		
+2966	14:b3:1f:2d:ce:69	10.2.28.2		
+2977	00:19:d1:b2:4d:ad	10.2.28.88		
+2979	14:b3:1f:2d:ce:69	10.2.28.2		
+4169	00:19:d1:b2:4d:ad	10.2.28.88		
+4171	14:b3:1f:2d:ce:69	10.2.28.2		
+4182	00:19:d1:b2:4d:ad	10.2.28.88		
+4184	14:b3:1f:2d:ce:69	10.2.28.2		
+4199	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+4200	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+4268	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+4269	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+4318	00:19:d1:b2:4d:ad	10.2.28.88		
+4320	14:b3:1f:2d:ce:69	10.2.28.2		
+4487	00:19:d1:b2:4d:ad	10.2.28.88		
+4489	14:b3:1f:2d:ce:69	10.2.28.2		
+4514	00:19:d1:b2:4d:ad	10.2.28.88		
+4516	14:b3:1f:2d:ce:69	10.2.28.2		
+4517	00:19:d1:b2:4d:ad	10.2.28.88		
+4541	00:19:d1:b2:4d:ad	10.2.28.88		
+4543	14:b3:1f:2d:ce:69	10.2.28.2		
+4554	00:19:d1:b2:4d:ad	10.2.28.88		
+4556	14:b3:1f:2d:ce:69	10.2.28.2		
+4645	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+4646	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+4832	00:19:d1:b2:4d:ad	10.2.28.88		
+4834	14:b3:1f:2d:ce:69	10.2.28.2		
+4835	00:19:d1:b2:4d:ad	10.2.28.88		
+4859	00:19:d1:b2:4d:ad	10.2.28.88		
+4861	14:b3:1f:2d:ce:69	10.2.28.2		
+4872	00:19:d1:b2:4d:ad	10.2.28.88		
+4874	14:b3:1f:2d:ce:69	10.2.28.2		
+4933	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+4934	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+5823	00:19:d1:b2:4d:ad	10.2.28.88		
+5825	14:b3:1f:2d:ce:69	10.2.28.2		
+5826	00:19:d1:b2:4d:ad	10.2.28.88		
+5850	00:19:d1:b2:4d:ad	10.2.28.88		
+5852	14:b3:1f:2d:ce:69	10.2.28.2		
+5863	00:19:d1:b2:4d:ad	10.2.28.88		
+5865	14:b3:1f:2d:ce:69	10.2.28.2		
+6059	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+6060	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+6087	00:19:d1:b2:4d:ad	10.2.28.88		
+6089	14:b3:1f:2d:ce:69	10.2.28.2		
+6090	00:19:d1:b2:4d:ad	10.2.28.88		
+6113	00:19:d1:b2:4d:ad	10.2.28.88		
+6115	14:b3:1f:2d:ce:69	10.2.28.2		
+6116	00:19:d1:b2:4d:ad	10.2.28.88		
+6140	00:19:d1:b2:4d:ad	10.2.28.88		
+6142	14:b3:1f:2d:ce:69	10.2.28.2		
+6153	00:19:d1:b2:4d:ad	10.2.28.88		
+6155	14:b3:1f:2d:ce:69	10.2.28.2		
+6240	00:19:d1:b2:4d:ad	10.2.28.88		
+6242	14:b3:1f:2d:ce:69	10.2.28.2		
+6289	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+6290	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+6363	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+6364	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+6410	00:19:d1:b2:4d:ad	10.2.28.88		
+6412	14:b3:1f:2d:ce:69	10.2.28.2		
+6413	00:19:d1:b2:4d:ad	10.2.28.88		
+6441	00:19:d1:b2:4d:ad	10.2.28.88		
+6443	14:b3:1f:2d:ce:69	10.2.28.2		
+6454	00:19:d1:b2:4d:ad	10.2.28.88		
+6456	14:b3:1f:2d:ce:69	10.2.28.2		
+6556	00:19:d1:b2:4d:ad	10.2.28.88		
+6558	14:b3:1f:2d:ce:69	10.2.28.2		
+6559	00:19:d1:b2:4d:ad	10.2.28.88		
+6578	00:19:d1:b2:4d:ad	10.2.28.88		
+6584	14:b3:1f:2d:ce:69	10.2.28.2		
+6585	00:19:d1:b2:4d:ad	10.2.28.88		
+6609	00:19:d1:b2:4d:ad	10.2.28.88		
+6611	14:b3:1f:2d:ce:69	10.2.28.2		
+6622	00:19:d1:b2:4d:ad	10.2.28.88		
+6624	14:b3:1f:2d:ce:69	10.2.28.2		
+6723	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+6724	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+6740	00:19:d1:b2:4d:ad	10.2.28.88		
+6742	14:b3:1f:2d:ce:69	10.2.28.2		
+6743	00:19:d1:b2:4d:ad	10.2.28.88		
+6767	00:19:d1:b2:4d:ad	10.2.28.88		
+6769	14:b3:1f:2d:ce:69	10.2.28.2		
+6780	00:19:d1:b2:4d:ad	10.2.28.88		
+6782	14:b3:1f:2d:ce:69	10.2.28.2		
+6953	00:19:d1:b2:4d:ad	10.2.28.88		
+6955	14:b3:1f:2d:ce:69	10.2.28.2		
+6985	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+6986	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+7061	00:19:d1:b2:4d:ad	10.2.28.88		
+7063	14:b3:1f:2d:ce:69	10.2.28.2		
+7064	00:19:d1:b2:4d:ad	10.2.28.88		
+7088	00:19:d1:b2:4d:ad	10.2.28.88		
+7090	14:b3:1f:2d:ce:69	10.2.28.2		
+7101	00:19:d1:b2:4d:ad	10.2.28.88		
+7103	14:b3:1f:2d:ce:69	10.2.28.2		
+7166	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+7167	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+7278	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+7279	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+7353	00:19:d1:b2:4d:ad	10.2.28.88		
+7355	14:b3:1f:2d:ce:69	10.2.28.2		
+7465	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+7466	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+7526	00:19:d1:b2:4d:ad	10.2.28.88		
+7528	14:b3:1f:2d:ce:69	10.2.28.2		
+7529	00:19:d1:b2:4d:ad	10.2.28.88		
+7555	00:19:d1:b2:4d:ad	10.2.28.88		
+7557	14:b3:1f:2d:ce:69	10.2.28.2		
+7568	00:19:d1:b2:4d:ad	10.2.28.88		
+7570	14:b3:1f:2d:ce:69	10.2.28.2		
+7655	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+7656	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+7720	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+7721	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+7758	00:19:d1:b2:4d:ad	10.2.28.88		
+7760	14:b3:1f:2d:ce:69	10.2.28.2		
+7798	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+7799	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+7951	00:19:d1:b2:4d:ad	10.2.28.88		
+7953	14:b3:1f:2d:ce:69	10.2.28.2		
+7954	00:19:d1:b2:4d:ad	10.2.28.88		
+8276	00:19:d1:b2:4d:ad	10.2.28.88		
+8278	14:b3:1f:2d:ce:69	10.2.28.2		
+8380	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+8381	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+8602	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+8603	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+8623	00:19:d1:b2:4d:ad	10.2.28.88		
+8625	14:b3:1f:2d:ce:69	10.2.28.2		
+8663	00:19:d1:b2:4d:ad	10.2.28.88		
+8667	14:b3:1f:2d:ce:69	10.2.28.2		
+8668	00:19:d1:b2:4d:ad	10.2.28.88		
+8687	00:19:d1:b2:4d:ad	10.2.28.88		
+8689	14:b3:1f:2d:ce:69	10.2.28.2		
+8706	00:19:d1:b2:4d:ad	10.2.28.88		
+8708	14:b3:1f:2d:ce:69	10.2.28.2		
+8799	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+8800	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+8837	00:19:d1:b2:4d:ad	10.2.28.88		
+8839	14:b3:1f:2d:ce:69	10.2.28.2		
+8840	00:19:d1:b2:4d:ad	10.2.28.88		
+8858	00:19:d1:b2:4d:ad	10.2.28.88		
+8860	14:b3:1f:2d:ce:69	10.2.28.2		
+8872	00:19:d1:b2:4d:ad	10.2.28.88		
+8874	14:b3:1f:2d:ce:69	10.2.28.2		
+8890	00:19:d1:b2:4d:ad	10.2.28.88		
+8892	14:b3:1f:2d:ce:69	10.2.28.2		
+9067	00:19:d1:b2:4d:ad	10.2.28.88		
+9069	14:b3:1f:2d:ce:69	10.2.28.2		
+9070	00:19:d1:b2:4d:ad	10.2.28.88		
+9094	00:19:d1:b2:4d:ad	10.2.28.88		
+9096	14:b3:1f:2d:ce:69	10.2.28.2		
+9107	00:19:d1:b2:4d:ad	10.2.28.88		
+9109	14:b3:1f:2d:ce:69	10.2.28.2		
+9149	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+9150	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+9268	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+9269	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+9300	00:19:d1:b2:4d:ad	10.2.28.88		
+9302	14:b3:1f:2d:ce:69	10.2.28.2		
+9324	00:19:d1:b2:4d:ad	10.2.28.88		
+9326	14:b3:1f:2d:ce:69	10.2.28.2		
+9327	00:19:d1:b2:4d:ad	10.2.28.88		
+9351	00:19:d1:b2:4d:ad	10.2.28.88		
+9353	14:b3:1f:2d:ce:69	10.2.28.2		
+9364	00:19:d1:b2:4d:ad	10.2.28.88		
+9366	14:b3:1f:2d:ce:69	10.2.28.2		
+9489	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+9490	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+9532	00:19:d1:b2:4d:ad	10.2.28.88		
+9534	14:b3:1f:2d:ce:69	10.2.28.2		
+9535	00:19:d1:b2:4d:ad	10.2.28.88		
+9559	00:19:d1:b2:4d:ad	10.2.28.88		
+9561	14:b3:1f:2d:ce:69	10.2.28.2		
+9572	00:19:d1:b2:4d:ad	10.2.28.88		
+9574	14:b3:1f:2d:ce:69	10.2.28.2		
+9733	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+9734	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+9822	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+9823	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+9841	00:19:d1:b2:4d:ad	10.2.28.88		
+9843	14:b3:1f:2d:ce:69	10.2.28.2		
+9875	00:19:d1:b2:4d:ad	10.2.28.88		
+9884	14:b3:1f:2d:ce:69	10.2.28.2		
+9885	00:19:d1:b2:4d:ad	10.2.28.88		
+9893	00:19:d1:b2:4d:ad	10.2.28.88		
+9898	14:b3:1f:2d:ce:69	10.2.28.2		
+9900	00:19:d1:b2:4d:ad	10.2.28.88		
+9930	00:19:d1:b2:4d:ad	10.2.28.88		
+9932	14:b3:1f:2d:ce:69	10.2.28.2		
+9943	00:19:d1:b2:4d:ad	10.2.28.88		
+9945	14:b3:1f:2d:ce:69	10.2.28.2		
+10192	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+10193	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+10262	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+10263	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+10327	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+10328	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+10342	00:19:d1:b2:4d:ad	10.2.28.88		
+10344	14:b3:1f:2d:ce:69	10.2.28.2		
+10405	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+10406	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+10574	00:19:d1:b2:4d:ad	10.2.28.88		
+10576	14:b3:1f:2d:ce:69	10.2.28.2		
+10835	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+10836	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+10875	00:19:d1:b2:4d:ad	10.2.28.88		
+10877	14:b3:1f:2d:ce:69	10.2.28.2		
+10878	00:19:d1:b2:4d:ad	10.2.28.88		
+10902	00:19:d1:b2:4d:ad	10.2.28.88		
+10904	14:b3:1f:2d:ce:69	10.2.28.2		
+10915	00:19:d1:b2:4d:ad	10.2.28.88		
+10917	14:b3:1f:2d:ce:69	10.2.28.2		
+11009	00:19:d1:b2:4d:ad	10.2.28.88		
+11011	14:b3:1f:2d:ce:69	10.2.28.2		
+11031	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+11032	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+11123	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+11124	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+11157	00:19:d1:b2:4d:ad	10.2.28.88		
+11159	14:b3:1f:2d:ce:69	10.2.28.2		
+11160	00:19:d1:b2:4d:ad	10.2.28.88		
+11188	00:19:d1:b2:4d:ad	10.2.28.88		
+11190	14:b3:1f:2d:ce:69	10.2.28.2		
+11201	00:19:d1:b2:4d:ad	10.2.28.88		
+11203	14:b3:1f:2d:ce:69	10.2.28.2		
+11282	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+11283	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+11339	00:19:d1:b2:4d:ad	10.2.28.88		
+11341	14:b3:1f:2d:ce:69	10.2.28.2		
+11368	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+11369	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+11387	00:19:d1:b2:4d:ad	10.2.28.88		
+11393	14:b3:1f:2d:ce:69	10.2.28.2		
+11396	00:19:d1:b2:4d:ad	10.2.28.88		
+11406	00:19:d1:b2:4d:ad	10.2.28.88		
+11411	14:b3:1f:2d:ce:69	10.2.28.2		
+11412	00:19:d1:b2:4d:ad	10.2.28.88		
+11436	00:19:d1:b2:4d:ad	10.2.28.88		
+11438	14:b3:1f:2d:ce:69	10.2.28.2		
+11449	00:19:d1:b2:4d:ad	10.2.28.88		
+11451	14:b3:1f:2d:ce:69	10.2.28.2		
+11560	00:19:d1:b2:4d:ad	10.2.28.88		
+11562	14:b3:1f:2d:ce:69	10.2.28.2		
+11563	00:19:d1:b2:4d:ad	10.2.28.88		
+11587	00:19:d1:b2:4d:ad	10.2.28.88		
+11589	14:b3:1f:2d:ce:69	10.2.28.2		
+11600	00:19:d1:b2:4d:ad	10.2.28.88		
+11602	14:b3:1f:2d:ce:69	10.2.28.2		
+11698	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+11699	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+11731	00:19:d1:b2:4d:ad	10.2.28.88		
+11733	14:b3:1f:2d:ce:69	10.2.28.2		
+11734	00:19:d1:b2:4d:ad	10.2.28.88		
+11758	00:19:d1:b2:4d:ad	10.2.28.88		
+11760	14:b3:1f:2d:ce:69	10.2.28.2		
+11771	00:19:d1:b2:4d:ad	10.2.28.88		
+11773	14:b3:1f:2d:ce:69	10.2.28.2		
+11907	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+11908	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+11944	00:19:d1:b2:4d:ad	10.2.28.88		
+11946	14:b3:1f:2d:ce:69	10.2.28.2		
+11988	00:19:d1:b2:4d:ad	10.2.28.88		
+11991	14:b3:1f:2d:ce:69	10.2.28.2		
+11992	00:19:d1:b2:4d:ad	10.2.28.88		
+12011	00:19:d1:b2:4d:ad	10.2.28.88		
+12013	14:b3:1f:2d:ce:69	10.2.28.2		
+12027	00:19:d1:b2:4d:ad	10.2.28.88		
+12029	14:b3:1f:2d:ce:69	10.2.28.2		
+12123	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+12124	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+12226	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+12227	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+12363	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+12364	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+12375	00:19:d1:b2:4d:ad	10.2.28.88		
+12377	14:b3:1f:2d:ce:69	10.2.28.2		
+12392	00:19:d1:b2:4d:ad	10.2.28.88		
+12394	14:b3:1f:2d:ce:69	10.2.28.2		
+12395	00:19:d1:b2:4d:ad	10.2.28.88		
+12414	00:19:d1:b2:4d:ad	10.2.28.88		
+12416	14:b3:1f:2d:ce:69	10.2.28.2		
+12432	00:19:d1:b2:4d:ad	10.2.28.88		
+12434	14:b3:1f:2d:ce:69	10.2.28.2		
+12622	00:19:d1:b2:4d:ad	10.2.28.88		
+12624	14:b3:1f:2d:ce:69	10.2.28.2		
+12684	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+12685	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+12786	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+12787	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+12829	00:19:d1:b2:4d:ad	10.2.28.88		
+12831	14:b3:1f:2d:ce:69	10.2.28.2		
+12832	00:19:d1:b2:4d:ad	10.2.28.88		
+12914	00:19:d1:b2:4d:ad	10.2.28.88		
+12916	14:b3:1f:2d:ce:69	10.2.28.2		
+14270	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+14271	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+14303	00:19:d1:b2:4d:ad	10.2.28.88		
+14305	14:b3:1f:2d:ce:69	10.2.28.2		
+14373	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+14374	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+14429	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+14430	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+14448	00:19:d1:b2:4d:ad	10.2.28.88		
+14450	14:b3:1f:2d:ce:69	10.2.28.2		
+14451	00:19:d1:b2:4d:ad	10.2.28.88		
+14475	00:19:d1:b2:4d:ad	10.2.28.88		
+14477	14:b3:1f:2d:ce:69	10.2.28.2		
+14488	00:19:d1:b2:4d:ad	10.2.28.88		
+14490	14:b3:1f:2d:ce:69	10.2.28.2		
+14570	00:19:d1:b2:4d:ad	10.2.28.88		
+14572	14:b3:1f:2d:ce:69	10.2.28.2		
+14573	00:19:d1:b2:4d:ad	10.2.28.88		
+14597	00:19:d1:b2:4d:ad	10.2.28.88		
+14599	14:b3:1f:2d:ce:69	10.2.28.2		
+14610	00:19:d1:b2:4d:ad	10.2.28.88		
+14612	14:b3:1f:2d:ce:69	10.2.28.2		
+14810	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+14811	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+14847	00:19:d1:b2:4d:ad	10.2.28.88		
+14849	14:b3:1f:2d:ce:69	10.2.28.2		
+14885	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+14886	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+14937	00:19:d1:b2:4d:ad	10.2.28.88		
+14939	14:b3:1f:2d:ce:69	10.2.28.2		
+14940	00:19:d1:b2:4d:ad	10.2.28.88		
+14968	00:19:d1:b2:4d:ad	10.2.28.88		
+14970	14:b3:1f:2d:ce:69	10.2.28.2		
+14981	00:19:d1:b2:4d:ad	10.2.28.88		
+14983	14:b3:1f:2d:ce:69	10.2.28.2		
+15071	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+15072	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+15152	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+15153	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+15181	00:19:d1:b2:4d:ad	10.2.28.88		
+15183	14:b3:1f:2d:ce:69	10.2.28.2		
+15293	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+15294	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+15348	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+15349	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+15405	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+15406	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	
+15433	00:19:d1:b2:4d:ad	10.2.28.88		
+15435	14:b3:1f:2d:ce:69	10.2.28.2		
+15481	00:19:d1:b2:4d:ad	10.2.28.88	EASYAS123<1d>,EASYAS123<1d> (Local Master Browser)	
+15482	14:b3:1f:2d:ce:69	10.2.28.2	EASYAS123<1d> (Local Master Browser)	

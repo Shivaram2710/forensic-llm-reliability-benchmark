@@ -1,0 +1,94 @@
+1	00:21:5d:c8:0e:f2	0.0.0.0		
+2	00:04:c1:be:8c:d4	10.1.21.1		
+3	00:21:5d:c8:0e:f2	0.0.0.0		
+4	00:04:c1:be:8c:d4	10.1.21.1		
+5	00:21:5d:c8:0e:f2	169.254.227.202	DESKTOP-ES9F3ML<00>,DESKTOP-ES9F3ML<00> (Workstation/Redirector)	
+6	00:21:5d:c8:0e:f2	169.254.227.202	WIN11OFFICE<00>,WIN11OFFICE<00> (Workstation/Redirector)	
+7	00:21:5d:c8:0e:f2	169.254.227.202	DESKTOP-ES9F3ML<20>,DESKTOP-ES9F3ML<20> (Server service)	
+9	00:21:5d:c8:0e:f2	169.254.227.202	DESKTOP-ES9F3ML<20>,DESKTOP-ES9F3ML<20> (Server service)	
+10	00:21:5d:c8:0e:f2	169.254.227.202	WIN11OFFICE<00>,WIN11OFFICE<00> (Workstation/Redirector)	
+11	00:21:5d:c8:0e:f2	169.254.227.202	DESKTOP-ES9F3ML<00>,DESKTOP-ES9F3ML<00> (Workstation/Redirector)	
+13	00:21:5d:c8:0e:f2	169.254.227.202	WIN11OFFICE<1e>,WIN11OFFICE<1e> (Browser Election Service)	
+42	00:21:5d:c8:0e:f2	10.1.21.58	DESKTOP-ES9F3ML<20>,DESKTOP-ES9F3ML<20> (Server service)	
+54	00:21:5d:c8:0e:f2	10.1.21.58		
+56	14:b3:1f:2d:ce:69	10.1.21.2		
+83	00:21:5d:c8:0e:f2	10.1.21.58	WIN11OFFICE<1e>,WIN11OFFICE<1e> (Browser Election Service)	
+84	00:21:5d:c8:0e:f2	10.1.21.58	DESKTOP-ES9F3ML<20>,DESKTOP-ES9F3ML<20> (Server service)	
+151	00:21:5d:c8:0e:f2	10.1.21.58	WIN11OFFICE<1e>,WIN11OFFICE<1e> (Browser Election Service)	
+157	00:21:5d:c8:0e:f2	10.1.21.58	DESKTOP-ES9F3ML<20>,DESKTOP-ES9F3ML<20> (Server service)	
+166	00:21:5d:c8:0e:f2	10.1.21.58	WIN11OFFICE<1e>,WIN11OFFICE<1e> (Browser Election Service)	
+167	00:21:5d:c8:0e:f2	10.1.21.58	DESKTOP-ES9F3ML<20>,DESKTOP-ES9F3ML<20> (Server service)	
+169	00:21:5d:c8:0e:f2	10.1.21.58	DESKTOP-ES9F3ML<00>,DESKTOP-ES9F3ML<00> (Workstation/Redirector)	
+170	00:21:5d:c8:0e:f2	10.1.21.58	WIN11OFFICE<00>,WIN11OFFICE<00> (Workstation/Redirector)	
+174	00:21:5d:c8:0e:f2	10.1.21.58	DESKTOP-ES9F3ML<00>,DESKTOP-ES9F3ML<00> (Workstation/Redirector)	
+175	00:21:5d:c8:0e:f2	10.1.21.58	WIN11OFFICE<00>,WIN11OFFICE<00> (Workstation/Redirector)	
+176	00:21:5d:c8:0e:f2	10.1.21.58	WIN11OFFICE<00>,WIN11OFFICE<00> (Workstation/Redirector)	
+177	00:21:5d:c8:0e:f2	10.1.21.58	DESKTOP-ES9F3ML<00>,DESKTOP-ES9F3ML<00> (Workstation/Redirector)	
+183	00:21:5d:c8:0e:f2	10.1.21.58	DESKTOP-ES9F3ML<00>,DESKTOP-ES9F3ML<00> (Workstation/Redirector)	
+184	00:21:5d:c8:0e:f2	10.1.21.58	WIN11OFFICE<00>,WIN11OFFICE<00> (Workstation/Redirector)	
+200	00:21:5d:c8:0e:f2	10.1.21.58	WIN11OFFICE<1e>,WIN11OFFICE<1e> (Browser Election Service)	
+202	00:21:5d:c8:0e:f2	10.1.21.58	WIN11OFFICE<1e>,WIN11OFFICE<1e> (Browser Election Service)	
+203	00:21:5d:c8:0e:f2	10.1.21.58	WIN11OFFICE<1e>,WIN11OFFICE<1e> (Browser Election Service)	
+204	00:21:5d:c8:0e:f2	10.1.21.58	WIN11OFFICE<1e>,WIN11OFFICE<1e> (Browser Election Service)	
+214	00:21:5d:c8:0e:f2	10.1.21.58		gwyatt
+215	14:b3:1f:2d:ce:69	10.1.21.2		
+222	00:21:5d:c8:0e:f2	10.1.21.58		gwyatt
+224	14:b3:1f:2d:ce:69	10.1.21.2		gwyatt
+235	00:21:5d:c8:0e:f2	10.1.21.58		
+238	14:b3:1f:2d:ce:69	10.1.21.2		gwyatt
+274	00:21:5d:c8:0e:f2	10.1.21.58		
+277	00:21:5d:c8:0e:f2	10.1.21.58		
+281	14:b3:1f:2d:ce:69	10.1.21.2		gwyatt
+287	00:21:5d:c8:0e:f2	10.1.21.58		
+290	14:b3:1f:2d:ce:69	10.1.21.2		gwyatt
+293	14:b3:1f:2d:ce:69	10.1.21.2		
+298	00:21:5d:c8:0e:f2	10.1.21.58		
+302	00:21:5d:c8:0e:f2	10.1.21.58		
+307	14:b3:1f:2d:ce:69	10.1.21.2		gwyatt
+316	00:21:5d:c8:0e:f2	10.1.21.58		
+322	14:b3:1f:2d:ce:69	10.1.21.2		
+342	00:21:5d:c8:0e:f2	10.1.21.58		
+348	14:b3:1f:2d:ce:69	10.1.21.2		
+381	00:21:5d:c8:0e:f2	10.1.21.58		
+383	14:b3:1f:2d:ce:69	10.1.21.2		
+410	00:21:5d:c8:0e:f2	10.1.21.58		
+413	14:b3:1f:2d:ce:69	10.1.21.2		gwyatt
+420	00:21:5d:c8:0e:f2	10.1.21.58		
+422	14:b3:1f:2d:ce:69	10.1.21.2		
+901	00:21:5d:c8:0e:f2	10.1.21.58		
+903	14:b3:1f:2d:ce:69	10.1.21.2		
+22946	00:21:5d:c8:0e:f2	10.1.21.58		
+22948	14:b3:1f:2d:ce:69	10.1.21.2		
+22949	00:21:5d:c8:0e:f2	10.1.21.58		
+22973	00:21:5d:c8:0e:f2	10.1.21.58		
+22975	14:b3:1f:2d:ce:69	10.1.21.2		
+22986	00:21:5d:c8:0e:f2	10.1.21.58		
+22988	14:b3:1f:2d:ce:69	10.1.21.2		
+28254	00:21:5d:c8:0e:f2	10.1.21.58		
+28256	14:b3:1f:2d:ce:69	10.1.21.2		
+35426	00:21:5d:c8:0e:f2	10.1.21.58		
+35428	14:b3:1f:2d:ce:69	10.1.21.2		
+50724	00:21:5d:c8:0e:f2	10.1.21.58		
+50727	14:b3:1f:2d:ce:69	10.1.21.2		gwyatt
+50733	00:21:5d:c8:0e:f2	10.1.21.58		
+50735	14:b3:1f:2d:ce:69	10.1.21.2		
+50746	00:21:5d:c8:0e:f2	10.1.21.58		
+50748	14:b3:1f:2d:ce:69	10.1.21.2		
+50769	00:21:5d:c8:0e:f2	10.1.21.58		
+50771	14:b3:1f:2d:ce:69	10.1.21.2		
+50772	00:21:5d:c8:0e:f2	10.1.21.58		
+50796	00:21:5d:c8:0e:f2	10.1.21.58		
+50798	14:b3:1f:2d:ce:69	10.1.21.2		
+50809	00:21:5d:c8:0e:f2	10.1.21.58		
+50811	14:b3:1f:2d:ce:69	10.1.21.2		
+50992	00:21:5d:c8:0e:f2	10.1.21.58		
+50994	14:b3:1f:2d:ce:69	10.1.21.2		
+51005	00:21:5d:c8:0e:f2	10.1.21.58		
+51007	14:b3:1f:2d:ce:69	10.1.21.2		
+51068	00:21:5d:c8:0e:f2	10.1.21.58		
+51070	14:b3:1f:2d:ce:69	10.1.21.2		
+51071	00:21:5d:c8:0e:f2	10.1.21.58		
+51095	00:21:5d:c8:0e:f2	10.1.21.58		
+51097	14:b3:1f:2d:ce:69	10.1.21.2		
+51108	00:21:5d:c8:0e:f2	10.1.21.58		
+51110	14:b3:1f:2d:ce:69	10.1.21.2		

@@ -1,0 +1,13 @@
+# Ignore the secret API keys
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore the massive raw PCAP files (we only want the extracted .txt logs)
+PCAPs/*.pcap
+
+# Ignore system files
+.DS_Store
+Thumbs.db
